@@ -2,7 +2,7 @@
 GiftHub matches people struggling to find gifts with self proclaimed gifting experts. Annonymously submit a request
 for help, or lend a hand to someone in need by helping them find the perfect present for the special someone
 in their life. This free, anonymous service requires no account registration and can be used for any occasion.
-Get gifting today! _try a live demo at http://gifthelp.xyz_
+Get gifting today! _try a live demo at http://www.gifthelp.xyz_
 
 ## How It Works
 1. Users needing help finding gifts fill out a form under the Ask for Help section of the site
@@ -25,4 +25,4 @@ A function is included in the __apiroutes.js__ file to convert validate & and co
 _for example: https://www.amazon.com/dp/B01DFKC2SO/ref=ods_gw_d_stage5_bis_xpl1?pf_rd_p=05d51bae-1820-4c75-8921-c2a1fd4030de&pf_rd_r=P8E7H98D63R7JPVG4AP4 becomes https://www.amazon.com/dp/B01DFKC2SO/?tag=gifthelp03-20_
 
 ## Try it Out!
-This project is live at http://gifthelp.xyz 
+This project is live at http://www.gifthelp.xyz 
